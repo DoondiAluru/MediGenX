@@ -1,5 +1,10 @@
 # Pneumonia Detection Using Machine Learning
 
+## 🔗 Access Project Files  
+The project files are hosted on Google Drive. Click below to download:  
+
+**[Download Project Files from Google Drive](https://drive.google.com/drive/folders/1lRq28cJXA_E6HXrrWo9N24NZqwsYjzOP?usp=sharing)**  
+
 ## Overview
 This project focuses on developing a **Pneumonia Detection System** using deep learning techniques, specifically leveraging the **VGG16 architecture** pre-trained on ImageNet. The model is designed to classify chest X-ray images into three categories:
 - **Bacterial Pneumonia**
