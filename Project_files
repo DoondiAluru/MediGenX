@@ -1,9 +1,7 @@
 echo "This project contains deep learning models for pneumonia detection using chest X-rays.
 
-📥 Download Project Files  
+📥 **Download Project Files**  
 Since the project files are hosted on Google Drive, follow these steps to download and run them:
 
-Manually Download Files  
-Click the link below and download the entire project folder:  
-
-echo "[Download Project Files from Google Drive](https://drive.google.com/drive/folders/1lRq28cJXA_E6HXrrWo9N24NZqwsYjzOP?usp=sharing)" > README.md
+### 🔗 **[Download Project Files from Google Drive](https://drive.google.com/drive/folders/1lRq28cJXA_E6HXrrWo9N24NZqwsYjzOP?usp=sharing)**  
+" > README.md
